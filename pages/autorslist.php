@@ -7,11 +7,7 @@ $umail = $_SESSION['user_email'];
 $tipo = $_SESSION['user_tipologia'];
  
 	$stmt = $auth_user -> runQuery('SELECT * FROM Autore;');
-    $stmt -> execute();
-	$stmt = $auth_user -> runQuery('SELECT * FROM Autore;');
-    $stmt -> execute();
-
-
+    $stmt -> execute();  
 ?>
 
 <head>
