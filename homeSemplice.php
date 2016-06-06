@@ -34,9 +34,9 @@ $userRow = $stmt -> fetch(PDO::FETCH_ASSOC);
 		<link href="css/home.css" rel="stylesheet"> 
 		<link rel="stylesheet" href="css/jquery-ui.css">
 	    <link rel="stylesheet" href="css/bootstrap-dialog.min.css" > 
-<link href="css/dataTables.bootstrap.min.css" rel="stylesheet"> 
-<link href="css/responsive.bootstrap.min.css" rel="stylesheet"> 
-<link href="css/jquery.dataTables.min.css" rel="stylesheet"> 
+        <link href="css/dataTables.bootstrap.min.css" rel="stylesheet"> 
+        <link href="css/responsive.bootstrap.min.css" rel="stylesheet"> 
+        <link href="css/jquery.dataTables.min.css" rel="stylesheet"> 
         
         <style type="text/css">
 			/* Some custom styles to beautify this example */

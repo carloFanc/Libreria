@@ -82,7 +82,7 @@ if (isset($_POST['btn-login'])) {
 	<!-- /container -->
 
 	<!-- Javascript -->
-	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/jquery-2.2.4.min.js"></script>
     <script src="js/jquery-ui.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 

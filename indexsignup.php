@@ -22,8 +22,7 @@ if ($user -> is_loggedin() != "") {
 
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/signin.css" rel="stylesheet">
-		<link rel="stylesheet" href="css/bootstrap-dialog.min.css" > 
-		<link rel="stylesheet" href="css/bootstrap-datetimepicker.min.css">
+		<link rel="stylesheet" href="css/bootstrap-dialog.min.css" >  
 		<link rel="stylesheet" href="css/jquery-ui.css">
 	</head>
 
@@ -64,7 +63,7 @@ if ($user -> is_loggedin() != "") {
 	<!-- /container -->
 
 	<!-- Javascript -->
-	<script src="js/jquery-1.12.3.min.js"></script>
+	<script src="js/jquery-2.2.4.min.js"></script>
 	<script src="js/jquery-ui.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/bootstrap-dialog.min.js"></script>
